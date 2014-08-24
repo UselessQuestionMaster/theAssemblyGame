@@ -24,3 +24,5 @@ Allow for events on tiles?
 Planned display like so?
 
 Either way, good luck to anyone who wishes to join for we do not know what horrors awaits us, using Assembly =^.^=
+
+*I'll start adding stuff once i learn assembly O.o after i do all of my summer homework*
