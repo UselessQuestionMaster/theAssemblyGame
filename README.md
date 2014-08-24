@@ -1,4 +1,4 @@
 theAssemblyGame
 ===============
 
-A game written by a group of developers who were willing to use Assembly
+A game written by a group of developers who were willing to use Assembly, because they can...
